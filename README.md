@@ -1,4 +1,4 @@
-# Code for [Coping with Mistreatment in Fair Algorithms](https://arxiv.org/abs/2102.10750)
+# Code for Coping with Mistreatment in Fair Algorithms
 
 This repo includes code for the UAI paper for reproducibility. 
 
